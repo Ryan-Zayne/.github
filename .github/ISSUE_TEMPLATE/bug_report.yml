@@ -66,5 +66,5 @@ body:
         label: Contributions
         description: Please note that Open Source projects are maintained by volunteers, where your cases might not be always relevant to the others. It would make things move faster if you could help investigate and propose solutions.
         options:
-           - label: I am willing to submit a PR to fix this issue
+           - label: I am willing to submit a PR to fix this issue (you can comment .take under the issue and it will be assigned to you)
            - label: I am willing to submit a PR with failing tests (actually just go ahead and do it, thanks!)
