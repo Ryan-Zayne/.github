@@ -17,7 +17,7 @@ Please include a summary of the change and which issue is fixed (if applicable).
 
 ## Related Issue
 
--  Fixes # (issue number)
+-  Fixes #(issue number)
 
 ## Contribution Guidelines
 
